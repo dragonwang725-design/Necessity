@@ -2,7 +2,7 @@
 title: "受动极必要性定理（The Necessity of the Passive Pole）"
 author: "loweswang（独立研究者）"
 orcid: "0009-0004-5919-8856"
-date: "2026-08-04"
+date: "2026-08-05"
 version: "2.0.0"
 doi: "10.5281/zenodo.21718874" 
 license: "CC BY 4.0"
@@ -14,7 +14,7 @@ Copyright (c) 2026: loweswnag
 > **版本**: 2.0.0  
 > **配套架构**: TDA 三层双视角辩证架构  
 > **定位**: 认识论根基的形式化表达  
-> **日期**: 2026-08-4
+> **日期**: 2026-08-05
 >
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21718874.svg)](https://doi.org/10.5281/zenodo.21718874)
 

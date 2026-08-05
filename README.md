@@ -4,7 +4,7 @@ author: "loweswang（独立研究者）"
 orcid: "0009-0004-5919-8856"
 date: "2026-08-05"
 version: "2.0.0"
-doi: "10.5281/zenodo.21718874" 
+doi: "10.5281/zenodo.21802503" 
 license: "CC BY 4.0"
 Copyright (c) 2026: loweswnag
 ---
@@ -16,7 +16,7 @@ Copyright (c) 2026: loweswnag
 > **定位**: 认识论根基的形式化表达  
 > **日期**: 2026-08-05
 >
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21718874.svg)](https://doi.org/10.5281/zenodo.21718874)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21802503.svg)](https://doi.org/10.5281/zenodo.21802503)
 
 #
 

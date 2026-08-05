@@ -4,7 +4,7 @@ author: "loweswang（独立研究者）"
 orcid: "0009-0004-5919-8856"
 date: "2026-08-04"
 version: "2.0.0"
-doi: "10.5281/zenodo.21336248" 
+doi: "10.5281/zenodo.21718874" 
 license: "CC BY 4.0"
 Copyright (c) 2026: loweswnag
 ---
